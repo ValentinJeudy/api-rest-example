@@ -1,2 +1,2 @@
 # api-rest-example
-Api rest example with node/monhoDB
+Api rest example with **node** / **express** / **mongoDB**
