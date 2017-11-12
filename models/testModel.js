@@ -3,7 +3,7 @@
 const mongoose = require('mongoose')
 const Schema = mongoose.Schema
 
-const TestSchema = new Schema({
+const ItemSchema = new Schema({
   name: {
     type: String,
     required: 'Kindly enter the name of the task'
@@ -21,4 +21,4 @@ const TestSchema = new Schema({
   }
 })
 
-module.exports = mongoose.model('Test', TestSchema)
+module.exports = mongoose.model('Items', ItemSchema)

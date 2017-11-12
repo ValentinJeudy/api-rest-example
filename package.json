@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/ValentinJeudy/api-rest-example#readme",
   "devDependencies": {
-    "nodemon": "^1.12.1"
+    "nodemon": "^1.12.1",
+    "util": "^0.10.3"
   },
   "dependencies": {
     "express": "^4.16.2",
